@@ -1,4 +1,6 @@
-# AI Video Assistant
+# ContextLens
+
+## AI Video Assistant
 
 Turn a YouTube video or a local audio/video file into a searchable meeting record. The app transcribes the media, creates a title and summary, extracts follow-ups, and lets you ask questions about the transcript.
 
